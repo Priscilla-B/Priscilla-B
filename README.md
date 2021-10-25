@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Priscilla, a data analyst and training facilitator with a finance bacground. I have experience in data analysis, machine learning, no-code development, technical training, and some front-end web development. 
+I am Priscilla, a data analyst and training facilitator with a finance background. I have experience in data analysis, machine learning, no-code development, technical training, and some front-end web development. 
 
 
 - 🔭 I’m currently working on interactive data analysis web apps with python, html and css that consolidates data from multiple sources such as excel sheets, sql, etc.
