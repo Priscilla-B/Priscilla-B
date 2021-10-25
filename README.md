@@ -12,4 +12,4 @@ I am Priscilla, a data analyst and training facilitator with a finance bacground
 
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=Priscilla-B&left_color=green&right_color=red)
   
-  [![Priscilla's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priscilla-B)](https://github.com/anuraghazra/github-readme-stats)
+  [![Priscilla's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priscilla-B)](https://github.com/anuraghazra/github-readme-stats&?count_private=true)
