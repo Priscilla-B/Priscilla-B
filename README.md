@@ -12,7 +12,7 @@ I am Priscilla, a data analyst and training facilitator with a finance backgroun
 
 ### Find me at 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priscillabaah/)](https://www.linkedin.com/in/priscillabaah/)
-[![Twitter Badge](http://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=github&link=https://twitter.com/ofosua_x)](https://twitter.com/ofosua_x) 
+[![Twitter Badge](http://img.shields.io/badge/-Twitter-blue?style=flat-square&logo=twitter&link=https://twitter.com/ofosua_x)](https://twitter.com/ofosua_x) 
 [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-blue?style=flat-square&logo=kaggle&logoColor=white&link=https://www.kaggle.com/priscillabaah)](https://www.kaggle.com/priscillabaah) 
 
 ### Stats and all
