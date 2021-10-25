@@ -8,7 +8,7 @@ I am Priscilla, a data analyst and training facilitator with a finance backgroun
 - 💬 Ask me about getting into data science from non-technical background, how to leverage your non-technical experience in a technical role, creating interactive data analysis dashboards online, anything!
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/priscillabaah/) [Twitter](https://twitter.com/ofosua_x)
 - 😄 Pronouns: She/Her
-- ❤️ Causes I care about: Volunteering, Continuous Learning, Knowledge Sharing, Leveling the playgroung for women in tech, Financial democratization
+- ❤️ Causes I care about: Volunteering, Continuous Learning, Knowledge Sharing, Leveling the playground for women in tech, Financial democratization
 - ⚡ Other interests: I'm a huge fan of the MCU(Shang-Chi is my favorite MCU movie), Manchester United Football Club, fantasy football and bedroom pop😎
 
 
