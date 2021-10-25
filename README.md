@@ -1,8 +1,6 @@
 ### Hi there 👋
 I am Priscilla. I have experience in data analysis, machine learning, no-code development, technical training, and some front-end web development. 
 
-**Priscilla-B/Priscilla-B** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 
 - 🔭 I’m currently working on interactive data analysis web apps with python, html and css that consolidates data from multiple sources such as excel sheets, sql, etc.
 - 🌱 I’m currently learning how to build stand alone interactive data analysis/machine learning web apps that accept user inputs and communicates useful information to such users
