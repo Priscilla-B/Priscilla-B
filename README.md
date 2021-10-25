@@ -15,4 +15,4 @@ I am Priscilla, a data analyst and training facilitator with a finance bacground
   [![Priscilla's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priscilla-B&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priscilla-B)](https://github.com/anuraghazra/github-readme-stats)
-Exclude i
+
