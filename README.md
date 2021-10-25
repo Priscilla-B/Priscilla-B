@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Priscilla. I have experience in data analysis, machine learning, no-code development, technical training, and some front-end web development. 
+I am Priscilla, a data analyst and training facilitator with a finance bacground. I have experience in data analysis, machine learning, no-code development, technical training, and some front-end web development. 
 
 
 - 🔭 I’m currently working on interactive data analysis web apps with python, html and css that consolidates data from multiple sources such as excel sheets, sql, etc.
@@ -10,3 +10,4 @@ I am Priscilla. I have experience in data analysis, machine learning, no-code de
 - 😄 Pronouns: She/Her
 - ⚡ Other interests: I'm a huge fan of the MCU(Shang-Chi is my favorite MCU movie), Manchester United Football Club and fantasy football
 
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=Priscilla-B&left_color=green&right_color=red)
