@@ -9,7 +9,7 @@ I am Priscilla, a data analyst and training facilitator with a finance bacground
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/priscillabaah/) [Twitter](https://twitter.com/ofosua_x)
 - 😄 Pronouns: She/Her
 - ❤️ Causes I care about: Volunteering, Continuous Learning, Knowledge Sharing, Leveling the playgroung for women in tech, Financial democratization
-- ⚡ Other interests: I'm a huge fan of the MCU(Shang-Chi is my favorite MCU movie), Manchester United Football Club and fantasy football
+- ⚡ Other interests: I'm a huge fan of the MCU(Shang-Chi is my favorite MCU movie), Manchester United Football Club, fantasy football and bedroom pop😎
 
 
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=Priscilla-B&left_color=green&right_color=red)
