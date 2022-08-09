@@ -18,7 +18,7 @@ I am Priscilla, a data analyst and training facilitator with a finance backgroun
 ### Stats and all
   ![visitors](https://visitor-badge.glitch.me/badge?page_id=Priscilla-B&left_color=green&right_color=red)
   
-  [![Priscilla's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priscilla-B&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+  [![Priscilla's GitHub stats](https://github-readme-stats.vercel.app/api?username=Priscilla-B&count_private=true&include_all_commits=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Priscilla-B&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
   
