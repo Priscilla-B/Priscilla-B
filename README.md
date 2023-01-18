@@ -5,7 +5,7 @@ I am Priscilla, I am a software developer in training with a data analyst and fi
 ### What I'm up to 
 - 🔭 I’m currently completing a fullstack web application which helps to track and improve operations in the cocoa value chain for licensed cocoa buying companies in Ghana.
 - I am also working on a fullstack web application to collect and track data on farmers, farms and their productivity across farmer cooperatives in Ghana.
-- 🌱 I’m currently learning how to build stand alone interactive data analysis/machine learning web apps that accept user inputs and communicates useful information to such users. 
+- 🌱 While building these projects, I am also studying at [AltSchool Africa School of Engineering](https://www.altschoolafrica.com/schools/engineering) to solidify my foundations in software engineering, with a focus on Backend Engineering with Python(Flask).
 - I also volunteer on a data analyst and no-code development training program for young Ghanaian women with [Finex Skills Hub](https://www.finexskillshub.com/). Read more [here](https://www.finexskillshub.com/excelourgirls)
 - 👯 I’m looking to collaborate on data-intensive full-stack web development projects, that incorporates concepts such as APIs, data dashboarding, multi-tenant users, machine learning functionalities, etc.
 
