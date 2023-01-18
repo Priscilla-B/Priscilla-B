@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Priscilla, I am a software developer in training with a data analyst and finance background. I have experience in data analysis, machine learning, no-code development, technical training, and some full-stack web development. 
+I am Priscilla. I am a software developer in training with a data analyst and finance background. I have experience in data analysis, machine learning, no-code development, technical training, and some full-stack web development. 
 
 
 ### What I'm up to 
