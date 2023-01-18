@@ -27,8 +27,6 @@ I am Priscilla, I am a software developer in training with a data analyst and fi
 
   [![Top Langs](https://github-readme-stats-priscilla-b.vercel.app/api/top-langs/?username=Priscilla-B&hide=jupyter%20notebook&theme=gruvbox)](https://github-readme-stats-priscilla-b.vercel.app/)
   
-  [![Priscilla's wakatime stats](https://github-readme-stats-priscilla-b.vercel.app/api/wakatime?username=Priscilla_B)](https://github-readme-stats-priscilla-b.vercel.app)
-  
 ### What I'm listening to
 
   [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qaoyifydgwuac7ggfxwj5togta&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
