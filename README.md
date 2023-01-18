@@ -1,14 +1,19 @@
 ### Hi there 👋
-I am Priscilla, a data analyst and training facilitator with a finance background. I have experience in data analysis, machine learning, no-code development, technical training, and some front-end web development. 
+I am Priscilla, I am a software developer in training with a data analyst and finance background. I have experience in data analysis, machine learning, no-code development, technical training, and some full-stack web development. 
 
 
-- 🔭 I’m currently working on interactive data analysis web apps with python, html and css that consolidates data from multiple sources such as excel sheets, sql, etc.
-- 🌱 I’m currently learning how to build stand alone interactive data analysis/machine learning web apps that accept user inputs and communicates useful information to such users. Also volunteering on a data analyst training program for young Ghanaian women with [Finex Skills Hub](https://www.finexskillshub.com/). Read more [here](https://www.finexskillshub.com/excelourgirls)
-- 👯 I’m looking to collaborate on data analysis projects (with python, sql, power bi, etc.), machine learning projects, and even web development projects that include some data analysis or machine learning functionalities!
-- 💬 Talk to me about getting into data science from non-technical background, how to leverage your non-technical experience in a technical role, creating interactive data analysis dashboards online, what song you're listening to, anything!
+### What I'm up to 
+- 🔭 I’m currently completing a fullstack web application which helps to track and improve operations in the cocoa value chain for licensed cocoa buying companies in Ghana.
+- I am also working on a fullstack web application to collect and track data on farmers, farms and their productivity across farmer cooperatives in Ghana.
+- 🌱 I’m currently learning how to build stand alone interactive data analysis/machine learning web apps that accept user inputs and communicates useful information to such users. 
+- I also volunteer on a data analyst and no-code development training program for young Ghanaian women with [Finex Skills Hub](https://www.finexskillshub.com/). Read more [here](https://www.finexskillshub.com/excelourgirls)
+- 👯 I’m looking to collaborate on data-intensive full-stack web development projects, that incorporates concepts such as APIs, data dashboarding, multi-tenant users, machine learning functionalities, etc.
+
+### Interests
+- 💬 Talk to me about getting into data science or software development from non-technical background, leveraging your non-technical experience in a technical role, building full-stack web applications, creating interactive data analysis dashboards, what song you're listening to, anything!
 - 😄 Pronouns: She/Her
 - ❤️ Causes I care about: Volunteering, Continuous Learning, Knowledge Sharing, Leveling the playground for women in tech, Financial democratization
-- ⚡ Other interests: I'm a huge fan of the MCU(Shang-Chi is my favorite MCU movie), Manchester United Football Club, fantasy football and bedroom pop😎
+- ⚡ Other interests: I've recently grown to love reading physical books(most recent book is [Americanah](https://www.goodreads.com/book/show/15796700-americanah)). I'm a huge fan of the MCU(Shang-Chi is still my current favorite MCU movie), Manchester United Football Club, fantasy football and bedroom pop😎
 
 ### Find me at 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priscillabaah/)](https://www.linkedin.com/in/priscillabaah/)
