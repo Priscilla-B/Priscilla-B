@@ -13,7 +13,7 @@ I am Priscilla. I am a software developer in training with a data analyst and fi
 - 💬 Talk to me about getting into data science or software development from non-technical background, leveraging your non-technical experience in a technical role, building full-stack web applications, creating interactive data analysis dashboards, what song you're listening to, anything!
 - 😄 Pronouns: She/Her
 - ❤️ Causes I care about: Volunteering, Continuous Learning, Knowledge Sharing, Leveling the playground for women in tech, Financial democratization
-- ⚡ Other interests: I've recently grown to love reading physical books(most recent book is [Americanah](https://www.goodreads.com/book/show/15796700-americanah)). I'm a huge fan of the MCU(Shang-Chi is still my current favorite MCU movie), Manchester United Football Club, fantasy football and bedroom pop😎
+- ⚡ Other interests: I've recently grown to love reading physical books(most recent book is [Americanah](https://www.goodreads.com/book/show/15796700-americanah)). I'm a huge fan of Manchester United Football Club, fantasy football and bedroom pop😎
 
 ### Find me at 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priscillabaah/)](https://www.linkedin.com/in/priscillabaah/)
