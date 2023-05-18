@@ -26,6 +26,7 @@ I am Priscilla. I am a software developer in training with a data analyst and fi
 | ------------- | ------------- |
 
   
-### What I'm listening to
+<!-- ### What I'm listening to
 
-  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qaoyifydgwuac7ggfxwj5togta&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+  [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31qaoyifydgwuac7ggfxwj5togta&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile) -->
+  
