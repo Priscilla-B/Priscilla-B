@@ -23,9 +23,9 @@ I am Priscilla. I am a software developer in training with a data analyst and fi
 ### Stats and all
 <!--   ![visitors](https://visitor-badge.glitch.me/badge?page_id=Priscilla-B&left_color=green&right_color=red) -->
   
-  [![Priscilla's GitHub stats](https://github-readme-stats-git-master-priscilla-b.vercel.app/api?username=Priscilla-B&count_private=true&include_all_commits=true&show_icons=true&theme=dracula)](https://github-readme-stats-mocha-sigma.vercel.app/)
+  [![Priscilla's GitHub stats](https://github-readme-stats-git-master-priscilla-b.vercel.app/api?username=Priscilla-B&count_private=true&include_all_commits=true&show_icons=true&theme=dark)](https://github-readme-stats-mocha-sigma.vercel.app/)
 
-  [![Top Langs](https://github-readme-stats-git-master-priscilla-b.vercel.app/api/top-langs/?username=Priscilla-B&hide=jupyter%20notebook&theme=dracula)](https://github-readme-stats-mocha-sigma.vercel.app/)
+  [![Top Langs](https://github-readme-stats-git-master-priscilla-b.vercel.app/api/top-langs/?username=Priscilla-B&hide=jupyter%20notebook&theme=dark)](https://github-readme-stats-mocha-sigma.vercel.app/)
 
   
 ### What I'm listening to
