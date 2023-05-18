@@ -1,19 +1,18 @@
 ### Hi there 👋
-I am Priscilla. I am a software developer in training with a data analyst and finance background. I have experience in data analysis, machine learning, no-code development, technical training, and some full-stack web development. 
-
+I am Priscilla. I am a software developer with experience in data science and finance. 
 
 ### What I'm up to 
-- 🔭 I’m currently completing a fullstack web application which helps to track and improve operations in the cocoa value chain for licensed cocoa buying companies in Ghana.
-- I am also working on a fullstack web application to collect and track data on farmers, farms and their productivity across farmer cooperatives in Ghana.
-- 🌱 While building these projects, I am also studying at [AltSchool Africa School of Engineering](https://www.altschoolafrica.com/schools/engineering) to solidify my foundations in software engineering, with a focus on Backend Engineering with Python(Flask).
-- I also volunteer on a data analyst and no-code development training program for young Ghanaian women with [Finex Skills Hub](https://www.finexskillshub.com/). Read more [here](https://www.finexskillshub.com/excelourgirls)
+- 🔭 Building projects to help farmers, cooperatives and individuals in the cocoa trading value chain to enhance traceability and efficiency in their operations.
+- 🌱 Rounding up my backend development training at [AltSchool](https://www.altschoolafrica.com/schools/engineering)
+- 💼 Working full time on both internal and external projects to enhance banking operations in Ghana.
+- 🤝 Volunteering at [Finex Skills Hub](https://www.finexskillshub.com/) to train professionals and students(with a focus on women) in data analytics and no-code development. Read more [here](https://www.finexskillshub.com/excelourgirls)
 - 👯 I’m looking to collaborate on data-intensive full-stack web development projects, that incorporates concepts such as APIs, data dashboarding, multi-tenant users, machine learning functionalities, etc.
 
 ### Interests
-- 💬 Talk to me about getting into data science or software development from non-technical background, leveraging your non-technical experience in a technical role, building full-stack web applications, creating interactive data analysis dashboards, what song you're listening to, anything!
+- 💬 Talk to me about getting into data science or software development from a non-technical background, leveraging your non-technical experience in a technical role, building full-stack web applications, creating interactive data analysis dashboards, what song you're listening to, anything!
 - 😄 Pronouns: She/Her
 - ❤️ Causes I care about: Volunteering, Continuous Learning, Knowledge Sharing, Leveling the playground for women in tech, Financial democratization
-- ⚡ Other interests: I've recently grown to love reading physical books(most recent book is [Americanah](https://www.goodreads.com/book/show/15796700-americanah)). I'm a huge fan of Manchester United Football Club, fantasy football and bedroom pop😎
+- ⚡ Other interests: Reading(mostly novels at the moment - fantasy, romance). I'm laso a huge fan of Manchester United Football Club ⚽ and love listing to indie music 🎶.
 
 ### Find me at 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/priscillabaah/)](https://www.linkedin.com/in/priscillabaah/)
