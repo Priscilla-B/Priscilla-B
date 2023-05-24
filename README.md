@@ -21,7 +21,7 @@ I am Priscilla. I am a software developer with experience in data science and fi
 
 ### My GitHub Stats
   
-| <a href="https://github-readme-stats-mocha-sigma.vercel.app"><img align="center" src="https://github-readme-stats-git-master-priscilla-b.vercel.app/api?username=Priscilla-B&count_private=true&include_all_commits=true&show_icons=true&theme=dark" alt="Anurag's github stats" /></a> | <a href="https://github-readme-stats-mocha-sigma.vercel.app"><img align="center" src="https://github-readme-stats-git-master-priscilla-b.vercel.app/api/top-langs/?username=Priscilla-B&hide=jupyter%20notebook&theme=dark&layout=compact" /></a> |
+| <a href="https://github-readme-stats-mocha-sigma.vercel.app"><img align="center" src="https://github-readme-stats-git-master-priscilla-b.vercel.app/api?username=Priscilla-B&count_private=true&include_all_commits=true&show_icons=true&theme=dark" alt="Priscilla's github stats" /></a> | <a href="https://github-readme-stats-mocha-sigma.vercel.app"><img align="center" src="https://github-readme-stats-git-master-priscilla-b.vercel.app/api/top-langs/?username=Priscilla-B&hide=jupyter%20notebook&theme=dark&layout=compact" /></a> |
 | ------------- | ------------- |
 
   
