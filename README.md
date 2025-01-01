@@ -1,13 +1,18 @@
-### Hi there 👋
-I am Priscilla. I am a software developer with experience in data science and finance. 
+### Hi there 👋  
+I’m **Priscilla**, a software developer with experience in **data science** and **finance**.  
 
-### Currently:
-- 💼 Working as a fullstack developer in the banking and finance industry: working on software related to payment collections, compliance, human resources
-- 🔭 Building my technical skillset in these areas:
-    - open source contributions
-    - data structures and algorithms
-    - databases
-    - api development
+### Currently:  
+- 💼 Working as a fullstack developer in the **banking and finance industry**, focusing on:  
+  - payment collections  
+  - compliance  
+  - human resources  
+
+- 🔭 Building my technical skills in:  
+  - **open source contributions**  
+  - **data structures and algorithms**  
+  - **databases**  
+  - **API development**  
+
 
 
 ### Find me here:
